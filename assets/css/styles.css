@@ -4967,7 +4967,7 @@ fieldset:disabled .btn {
   --bs-badge-font-weight: 700;
   --bs-badge-color: #fff;
   --bs-badge-border-radius: var(--bs-border-radius);
-  display: inline-block;
+  /* display: inline-block; */
   padding: var(--bs-badge-padding-y) var(--bs-badge-padding-x);
   font-size: var(--bs-badge-font-size);
   font-weight: var(--bs-badge-font-weight);
@@ -12183,7 +12183,7 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header a {
-  color: rgba(255, 255, 255, 0.84);
+  color: rgba(255, 255, 255, 0.88);
 }
 
 .resume-header a:hover {
@@ -12288,7 +12288,7 @@ a.theme-btn-on-bg:active,
 
 .badge-light {
   color: #58677c;
-  background: #f7f8fa;
+  background: #f3f3f3;
 }
 
 .resume-degree {
