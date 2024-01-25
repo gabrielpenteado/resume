@@ -12169,11 +12169,11 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 180px;
 }
 
 .resume-header .name {
-  font-size: 2.25rem;
+  font-size: 2.24rem;
   letter-spacing: 0.175rem;
   font-weight: 900;
 }
@@ -12183,7 +12183,7 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header a {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.84);
 }
 
 .resume-header a:hover {
